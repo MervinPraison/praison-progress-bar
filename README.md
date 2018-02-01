@@ -1,2 +1,2 @@
-# praison-progress-bar
+# Praison Progress Bar
 Big Data WordPress Admin Progress Bar
